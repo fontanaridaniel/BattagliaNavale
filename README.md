@@ -1,4 +1,4 @@
-# BattagliaNavale_public
+# BattagliaNavale
 
 ## Descrizione:
  Battaglia navale sviluppata in JAVA.
